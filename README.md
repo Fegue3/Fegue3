@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Pereira and I'm a Computer Engineering Student from Portugal</h1>
 
-- 🌱 I’m currently learning **Web Development, Data Structures and Algorithms, JavaFX, Operative Systems and Prolog**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **fp226766@gmail.com**
 
